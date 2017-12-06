@@ -4,7 +4,7 @@ public class User
 	private String uid,pwd,fname,lname,email,contact;
 	Address address;
 
-	public User() {
+	public User() {   
 		super();
 		// TODO Auto-generated constructor stub
 	}
